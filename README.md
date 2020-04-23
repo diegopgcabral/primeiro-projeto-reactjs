@@ -8,13 +8,13 @@
 
 ## Assuntos abordados:
 
-Estrutura e padrões
+### Estrutura e padrões
 	01. Criando projeto
 	02. EditorConfig
 	03. ESLint
 	04. Prettier
 
-Criando a aplicação
+### Criando a aplicação
 
 	01. Criando Rotas
 	02. Utilizando Styled Components
